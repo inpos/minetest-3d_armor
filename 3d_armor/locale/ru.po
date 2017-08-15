@@ -15,370 +15,280 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.3\n"
 "Last-Translator: \n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "Language: ru\n"
 
-#: ../3d_armor/api.lua
 msgid "3d_armor: Player name is nil @1"
 msgstr "3d_armor: Отсутствует имя игрока @1"
 
-#: ../3d_armor/api.lua
 msgid "3d_armor: Player inventory is nil @1"
 msgstr "3d_armor: Инвентарь игрока отсутствует @1"
 
-#: ../3d_armor/api.lua
 msgid "3d_armor: Detached armor inventory is nil @1"
 msgstr "3d_armor: Инвентарь снятой брони отсутствует @1"
 
-#: ../3d_armor/api.lua
 msgid "3d_armor: Player reference is nil @1"
 msgstr "3d_armor: Ссылка на игрока отсутствует @1"
 
-#: ../3d_armor/armor.lua
 msgid "Admin Helmet"
 msgstr "Шлем администратора"
 
-#: ../3d_armor/armor.lua
 msgid "Admin Chestplate"
 msgstr "Нагрудник администратора"
 
-#: ../3d_armor/armor.lua
 msgid "Admin Leggings"
 msgstr "Штаны администратора"
 
-#: ../3d_armor/armor.lua
 msgid "Admin Boots"
 msgstr "Ботинки администратора"
 
-#: ../3d_armor/armor.lua
 msgid "Wood Helmet"
 msgstr "Деревянный шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Wood Chestplate"
 msgstr "Деревянный нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Wood Leggings"
 msgstr "Деревянные штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Wood Boots"
 msgstr "Деревянные ботинки"
 
-#: ../3d_armor/armor.lua
 msgid "Cactus Helmet"
 msgstr "Шлем из кактуса"
 
-#: ../3d_armor/armor.lua
 msgid "Cactus Chestplate"
 msgstr "Нагрудник из кактуса"
 
-#: ../3d_armor/armor.lua
 msgid "Cactus Leggings"
 msgstr "Штаны из кактуса"
 
-#: ../3d_armor/armor.lua
 msgid "Cactus Boots"
 msgstr "Ботинки из кактуса"
 
-#: ../3d_armor/armor.lua
 msgid "Steel Helmet"
 msgstr "Стальной шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Steel Chestplate"
 msgstr "Стальной нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Steel Leggings"
 msgstr "Стальные штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Steel Boots"
 msgstr "Стальные ботинки"
 
-#: ../3d_armor/armor.lua
 msgid "Bronze Helmet"
 msgstr "Бронзовый шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Bronze Chestplate"
 msgstr "Бронзовый нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Bronze Leggings"
 msgstr "Бронзовые штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Bronze Boots"
 msgstr "Бронзовые ботинки"
 
-#: ../3d_armor/armor.lua
 msgid "Diamond Helmet"
 msgstr "Алмазный шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Diamond Chestplate"
 msgstr "Алмазный нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Diamond Leggings"
 msgstr "Алмазные штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Diamond Boots"
 msgstr "Алмазные ботинки"
 
-#: ../3d_armor/armor.lua
 msgid "Gold Helmet"
 msgstr "Золотой шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Gold Chestplate"
 msgstr "Золотой нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Gold Leggings"
 msgstr "Золотые штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Gold Boots"
 msgstr "Золотые ботинки"
 
-#: ../3d_armor/armor.lua
 msgid "Mithril Helmet"
 msgstr "Митриловый шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Mithril Chestplate"
 msgstr "Митриловый нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Mithril Leggings"
 msgstr "Митриловые штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Mithril Boots"
 msgstr "Митриловые ботинки"
 
-#: ../3d_armor/armor.lua
 msgid "Crystal Helmet"
 msgstr "Хрустальный шлем"
 
-#: ../3d_armor/armor.lua
 msgid "Crystal Chestplate"
 msgstr "Хрустальный нагрудник"
 
-#: ../3d_armor/armor.lua
 msgid "Crystal Leggings"
 msgstr "Хрустальные штаны"
 
-#: ../3d_armor/armor.lua
 msgid "Crystal Boots"
 msgstr "Хрустальные ботинки"
 
-#: ../3d_armor/init.lua ../3d_armor_ui/init.lua
 msgid "Radiation"
 msgstr "Радиация"
 
-#: ../3d_armor/init.lua ../3d_armor_ui/init.lua
 msgid "Level"
 msgstr "Уровень"
 
-#: ../3d_armor/init.lua ../3d_armor_ui/init.lua
 msgid "Heal"
 msgstr "Лечение"
 
-#: ../3d_armor/init.lua ../3d_armor_ui/init.lua
 msgid "Fire"
 msgstr "Огонь"
 
-#: ../3d_armor/init.lua
 msgid "Your @1 got destroyed!"
 msgstr "Ваш @1 уничтожен!"
 
-#: ../3d_armor/init.lua
 msgid "3d_armor: Failed to initialize player"
 msgstr "3d_armor: Ошибка инициализации игрока"
 
-#: ../3d_armor/init.lua
 msgid "[3d_armor] Fire Nodes disabled"
 msgstr "[3d_armor] Fire Nodes отключён"
 
-#: ../3d_armor_ip/init.lua
 msgid "3d_armor_ip: Mod loaded but unused."
 msgstr "3d_armor_ip: Мод загружен, но неиспользован."
 
-#: ../3d_armor_ip/init.lua
 msgid "Back"
 msgstr "Назад"
 
-#: ../3d_armor_ip/init.lua ../3d_armor_sfinv/init.lua ../3d_armor_ui/init.lua
 msgid "Armor"
 msgstr "Броня"
 
-#: ../3d_armor_sfinv/init.lua
 msgid "3d_armor_sfinv: Mod loaded but unused."
 msgstr "3d_armor_sfinv: Мод загружен, но неиспользован."
 
-#: ../3d_armor_stand/init.lua
 msgid "Armor stand top"
 msgstr "Доспехи"
 
-#: ../3d_armor_stand/init.lua
 msgid "Armor stand"
 msgstr "Подставка брони"
 
-#: ../3d_armor_stand/init.lua
 msgid "Armor Stand"
 msgstr "Подставка Брони"
 
-#: ../3d_armor_stand/init.lua
 msgid "Locked Armor stand"
 msgstr "Закрытая подставка брони"
 
-#: ../3d_armor_stand/init.lua
 msgid "Armor Stand (owned by @1)"
 msgstr "Подставка Брони (принадлежит @1)"
 
-#: ../3d_armor_ui/init.lua
 msgid "3d_armor_ui: Mod loaded but unused."
 msgstr "3d_armor_ui: Мод загружен, но неиспользован."
 
-#: ../3d_armor_ui/init.lua
 msgid "3d Armor"
 msgstr "3D Броня"
 
-#: ../3d_armor_ui/init.lua
 msgid "Armor not initialized!"
 msgstr "Броня не инициализирована!"
 
-#: ../hazmat_suit/init.lua
 msgid "hazmat_suit: Mod loaded but unused."
 msgstr "hazmat_suit: Мод загружен, но неиспользован."
 
-#: ../hazmat_suit/init.lua
 msgid "Hazmat Helmet"
 msgstr "Антизаразный шлем"
 
-#: ../hazmat_suit/init.lua
 msgid "Hazmat Chestplate"
 msgstr "Антизаразный нагрудник"
 
-#: ../hazmat_suit/init.lua
 msgid "Hazmat Sleeve"
 msgstr "Антизаразный рукав"
 
-#: ../hazmat_suit/init.lua
 msgid "Hazmat Leggins"
 msgstr "Антизаразные штаны"
 
-#: ../hazmat_suit/init.lua
 msgid "Hazmat Boots"
 msgstr "Антизаразные ботинки"
 
-#: ../hazmat_suit/init.lua
 msgid "Hazmat Suit"
 msgstr "Антизаразный костюм"
 
-#: ../shields/init.lua
 msgid "Admin Shield"
 msgstr "Щит администратора"
 
-#: ../shields/init.lua
 msgid "Wooden Shield"
 msgstr "Деревянный щит"
 
-#: ../shields/init.lua
 msgid "Enhanced Wood Shield"
 msgstr "Улучшенный деревянный щит"
 
-#: ../shields/init.lua
 msgid "Cactus Shield"
 msgstr "Щит из кактуса"
 
-#: ../shields/init.lua
 msgid "Enhanced Cactus Shield"
 msgstr "Улучшенный щит из кактуса"
 
-#: ../shields/init.lua
 msgid "Steel Shield"
 msgstr "Стальной щит"
 
-#: ../shields/init.lua
 msgid "Bronze Shield"
 msgstr "Бронзовый щит"
 
-#: ../shields/init.lua
 msgid "Diamond Shield"
 msgstr "Алмазный щит"
 
-#: ../shields/init.lua
 msgid "Gold Shield"
 msgstr "Золотой щит"
 
-#: ../shields/init.lua
 msgid "Mithril Shield"
 msgstr "Митриловый щит"
 
-#: ../shields/init.lua
 msgid "Crystal Shield"
 msgstr "Хрустальный щит"
 
-#: ../technic_armor/init.lua
 msgid "technic_armor: Mod loaded but unused."
 msgstr "technic_armor: Мод загружен, но неиспользован."
 
-#: ../technic_armor/init.lua
 msgid "Lead"
 msgstr "Свинец"
 
-#: ../technic_armor/init.lua
 msgid "Brass"
 msgstr "Латунь"
 
-#: ../technic_armor/init.lua
 msgid "Cast Iron"
 msgstr "Чугун"
 
-#: ../technic_armor/init.lua
 msgid "Carbon Steel"
 msgstr "Углеродистая сталь"
 
-#: ../technic_armor/init.lua
 msgid "Stainless Steel"
 msgstr "Нержавеющая сталь"
 
-#: ../technic_armor/init.lua
 msgid "Tin"
 msgstr "Жесть"
 
-#: ../technic_armor/init.lua
 msgid "Silver"
 msgstr "Серебро"
 
-#: ../technic_armor/init.lua
 msgid "Helmet"
 msgstr "Шлем"
 
-#: ../technic_armor/init.lua
 msgid "Chestplate"
 msgstr "Нагрудник"
 
-#: ../technic_armor/init.lua
 msgid "Leggings"
 msgstr "Штаны"
 
-#: ../technic_armor/init.lua
 msgid "Boots"
 msgstr "Ботинки"
 
-#: ../technic_armor/init.lua
 msgid "Shield"
 msgstr "Щит"
 
 #. Translators: @1 stands for material and @2 for part of the armor, so that you could use a conjunction if in your language part name comes first then material (e.g. in french 'Silver Boots' is translated in 'Bottes en argent' by using '@2 en @1' as translated string)
-#: ../technic_armor/init.lua
 msgid "@1 @2"
 msgstr "@1 @2"
+
